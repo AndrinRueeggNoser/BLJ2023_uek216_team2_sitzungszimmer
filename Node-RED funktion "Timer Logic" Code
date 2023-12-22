@@ -1,3 +1,5 @@
+``` js
+
 let countdown = context.get('countdown') || null;
 let timeLeft = context.get('timeLeft') || 0;
 
@@ -41,3 +43,5 @@ function pad(number) {
 }
 
 return;
+
+```
