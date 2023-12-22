@@ -1,5 +1,5 @@
+![UEK216SitzungszimmerAd_An_Je](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/assets/145564904/89b62410-20ac-4253-a503-c818dced64b9)
 
-![UEK216SitzungszimmerAd_An_Ja (1)](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/assets/145564904/bb734975-bfc5-49b4-a447-2d9f982196d5)
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer) <br>
