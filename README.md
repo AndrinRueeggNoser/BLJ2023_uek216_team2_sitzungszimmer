@@ -37,27 +37,4 @@ Falls unser Projekt dir gefallen hat, dann vergiss nicht zu:
 - &#x25A0; Uns eine gute Note zu geben
 - &#x25A0; Und dieses Dokument zu fetchen um meinem Aufwand zu sehen
 
-  ```
-*     ,MMM8&&&.            *
-                  MMMM88&&&&&    .
-                 MMMM88&&&&&&&
-     *           MMM88&&&&&&&&
-                 MMM88&&&&&&&&
-                 'MMM88&&&&&&'
-                   'MMM8&&&'      *
-          |\___/|
-          )     (             .              '
-         =\     /=
-           )===(       *
-          /     \
-          |     |
-         /       \
-         \       /
-  _/\_/\_/\__  _/_/\_/\_/\_/\_/\_/\_/\_/\_/\_
-  |  |  |  |( (  |  |  |  |  |  |  |  |  |  |
-  |  |  |  | ) ) |  |  |  |  |  |  |  |  |  |
-  |  |  |  |(_(  |  |  |  |  |  |  |  |  |  |
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-  ```
