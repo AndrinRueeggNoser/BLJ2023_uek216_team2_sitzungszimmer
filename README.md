@@ -1,6 +1,7 @@
-
-
 # K216SitzungsraumAdAnJa <br> <br>
+![GitHub contributors](https://img.shields.io/github/contributors/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer)
+
+ <br> <br>
 ![giphy](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/assets/145564904/4741bc86-7677-4ef5-89a8-3301eb8815a5) <br>
 [Quelle](https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0)
 ---
