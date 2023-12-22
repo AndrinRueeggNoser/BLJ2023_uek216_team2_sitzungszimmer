@@ -24,7 +24,7 @@ Teilnehmer:
 ___
 
 
-Here you can visit the sites:
+Hier sind nochmals die Links zu alles, was wir auf GitHub zur Verfügung gestellt haben:
 
 [Arduino Code](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/Code.md) <br>
 [Node Red Timer Function](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/Node-RED%20funktion%20%22Timer%20Logic%22%20Code) <br>
@@ -36,3 +36,27 @@ Falls unser Projekt dir gefallen hat, dann vergiss nicht zu:
 - &#x25A0; Favoritisieren
 - &#x25A0; Uns eine gute Note zu geben
 - &#x25A0; Und dieses Dokument zu fetchen um meinem Aufwand zu sehen
+
+  ```
+               *     ,MMM8&&&.            *
+                  MMMM88&&&&&    .
+                 MMMM88&&&&&&&
+     *           MMM88&&&&&&&&
+                 MMM88&&&&&&&&
+                 'MMM88&&&&&&'
+                   'MMM8&&&'      *
+          |\___/|
+          )     (             .              '
+         =\     /=
+           )===(       *
+          /     \
+          |     |
+         /       \
+         \       /
+  _/\_/\_/\__  _/_/\_/\_/\_/\_/\_/\_/\_/\_/\_
+  |  |  |  |( (  |  |  |  |  |  |  |  |  |  |
+  |  |  |  | ) ) |  |  |  |  |  |  |  |  |  |
+  |  |  |  |(_(  |  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  ```
