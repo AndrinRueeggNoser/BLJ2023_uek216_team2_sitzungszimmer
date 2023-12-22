@@ -35,6 +35,6 @@ Hier sind nochmals die Links zu alles, was wir auf GitHub zur Verfügung gestell
 Falls unser Projekt dir gefallen hat, dann vergiss nicht zu:
 - &#x25A0; Favoritisieren
 - &#x25A0; Uns eine gute Note zu geben
-- &#x25A0; Und dieses Dokument zu fetchen um meinem Aufwand zu sehen
+- &#x25A0; Und dieses Dokument zu fetchen um meinen Aufwand zu sehen
 
 
