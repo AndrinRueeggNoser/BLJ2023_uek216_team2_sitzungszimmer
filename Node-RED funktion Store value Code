@@ -1,0 +1,2 @@
+flow.set("enteredTime", parseInt(msg.payload));
+return msg;
