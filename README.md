@@ -24,4 +24,8 @@ ___
 
 Here you can visit the sites:
 
-[Code](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/Code.md)
+[Arduino Code](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/Code.md) <br>
+[Node Red Timer Function](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/Node-RED%20funktion%20%22Timer%20Logic%22%20Code) <br>
+[Node Red Store Value Function](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/Node-RED%20funktion%20Store%20value%20Code) <br>
+[Group Project documentation](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/%C3%BCk216_SitzungszimmerGruppenprojektAdAnJa.pdf) <br>
+
