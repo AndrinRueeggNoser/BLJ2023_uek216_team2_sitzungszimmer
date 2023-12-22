@@ -31,3 +31,8 @@ Here you can visit the sites:
 [Node Red Store Value Function](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/Node-RED%20funktion%20Store%20value%20Code) <br>
 [Group Project documentation](https://github.com/AndrinRueeggNoser/BLJ2023_uek216_team2_sitzungszimmer/blob/main/%C3%BCk216_SitzungszimmerGruppenprojektAdAnJa.pdf) <br>
 
+
+Falls unser Projekt dir gefallen hat, dann vergiss nicht zu:
+- &#x25A0; Favoritisieren
+- &#x25A0; Uns eine gute Note zu geben
+- &#x25A0; Und dieses Dokument zu fetchen um meinem Aufwand zu sehen
