@@ -1,0 +1,43 @@
+let countdown = context.get('countdown') || null;
+let timeLeft = context.get('timeLeft') || 0;
+
+if (msg.payload === "start_timer") {
+    if (!countdown) {
+        timeLeft = flow.get("enteredTime") || 0;
+        timeLeft = timeLeft * 60; // Convert minutes to seconds
+
+        countdown = setInterval(function() {
+            timeLeft--;
+            if (timeLeft <= 0) {
+                clearInterval(countdown);
+                countdown = null;
+                context.set('countdown', null);
+                context.set('timeLeft', 0);
+                node.send({ payload: "The Room is now free again!" });
+            } else {
+                node.send({ payload: formatTime(timeLeft) });
+            }
+        }, 1000);
+
+        context.set('countdown', countdown);
+        context.set('timeLeft', timeLeft);
+    }
+} else if (msg.payload === "end_timer") {
+    clearInterval(countdown);
+    countdown = null;
+    context.set('countdown', null);
+    context.set('timeLeft', 0);
+    node.send({ payload: "" });
+}
+
+function formatTime(seconds) {
+    let minutes = Math.floor(seconds / 60);
+    let secs = seconds % 60;
+    return `${pad(minutes)}:${pad(secs)}`;
+}
+
+function pad(number) {
+    return number < 10 ? '0' + number : number;
+}
+
+return;
