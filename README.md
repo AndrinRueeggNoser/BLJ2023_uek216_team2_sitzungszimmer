@@ -11,11 +11,11 @@ Herzlich willkommen zu der ÜK Projektarbeit 'Sitzungszimmer'.
 Teilnehmer:
 <br>
 
-| Creators | Tasks             |
-| -------- | ----------------- |
-| Andrin   | Code/MQTT/Node Red|
-| Adam     | Documentation     |
-| Jean     | Documentation     |
+| Creators | Tasks              |
+| -------- | -------------------|
+| Andrin   | Code/MQTT/Node Red |
+| Adam     | Docu/Testing       |
+| Jean     | Docu/Modell/Helping|
 
 </body>
 </html>
